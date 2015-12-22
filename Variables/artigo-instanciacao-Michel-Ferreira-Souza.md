@@ -164,7 +164,7 @@ myPhrase; // myPhrase is not defined
 2. [Padronização com IIFE](http://www.devmedia.com.br/padronizacao-com-iife-amd-e-requirejs/31031) - Acesso em 22 de Novembro de 2015;<br/>
 3. [Escopo variável (JavaScript)](https://msdn.microsoft.com/pt-br/library/bzt2dkta(v=vs.94).aspx) - Acesso em 22 de Novembro de 2015;<br/>
 4. [Closure (computer programming)](https://en.wikipedia.org/wiki/Closure_(computer_programming) - Acesso em 22 de Novembro de 2015;<br/>
-5. [Closure em Javascript](https://javiani.wordpress.com/2009/11/07/closure-em-javascript/) - Acesso em 22 de Novembro de 2015;<br/>
+5. [Closure em Javascript](https://javiani.wordpress.com/2009/11/07/closure-em-javascript/)) - Acesso em 22 de Novembro de 2015;<br/>
 6. [JSHint](http://jshint.com/) - Acesso em 22 de Novembro de 2015;<br/>
 7. [Entendendo escopo e hoisting no JavaScript](https://www.hugobessa.com.br/posts/entendendo-escopo-e-hoisting-no-javascript/) - Acesso em 22 de Novembro de 2015;<br/>
 8. [JS Funcional] (https://github.com/Webschool-io/workshop-js-funcional-free#IIFE) - Acesso em 22 de Novembro de 2015;<br/>
